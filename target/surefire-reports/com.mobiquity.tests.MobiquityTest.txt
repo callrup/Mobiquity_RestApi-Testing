@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.mobiquity.tests.MobiquityTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 31.258 s <<< FAILURE! - in com.mobiquity.tests.MobiquityTest
+getDeletedUser  Time elapsed: 0.958 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <0> but was: <1>
+	at com.mobiquity.tests.MobiquityTest.getDeletedUser(MobiquityTest.java:89)
+
