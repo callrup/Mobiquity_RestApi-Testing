@@ -23,3 +23,7 @@ install allure from here https://docs.qameta.io/allure/#_installing_a_commandlin
 When the test execution finished, enter the command below inside the project in order to see Allure Results with Request-Response Attachments:
 
 allure serve target/allure-reports/
+
+
+![image](https://user-images.githubusercontent.com/35593071/142854331-95e5bf60-6866-429b-afe5-a19f21471314.png)
+
