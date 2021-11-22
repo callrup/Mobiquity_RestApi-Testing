@@ -6,6 +6,7 @@ Tools / libraries used :
 
 Java
 Rest Assured
+Jackson
 JUnit
 Maven
 
