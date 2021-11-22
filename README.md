@@ -1,13 +1,23 @@
 # Mobiquity_RestApi-Testing
 
-REST_Assured API Test Framework
+# Developed a simple framework which should support to develop automation test scripts for API services in Java.
 
-(Java, REST-Assured, JUnit5, Log4j, Allure Reports(with Request and Response Attachments), CircleCI)
+Tools / libraries used :
+Java
+Rest Assured
+Cucumber
+JUnit
+Maven
 
-To Run
-mvn test
+# Steps to start :
+Clone / Download the project into your local
+Open the Command prompt and navigat to project location
+Execute the following Maven command's
+mvn clean :- To clean the maven repo
+mvn install :- To install the maven requirments
+mvn test :- To execute the test scenarios
 
-To See Report
+# To See Report
 install allure from here https://docs.qameta.io/allure/#_installing_a_commandline
 When the test execution finished, enter the command below inside the project in order to see Allure Results with Request-Response Attachments:
 
